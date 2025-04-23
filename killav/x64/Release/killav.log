@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\share\windows\killav\killav\main.cpp(81,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\share\windows\killav\killav\main.cpp(113,121): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  killav.vcxproj -> D:\share\windows\killav\x64\Release\killav.exe
